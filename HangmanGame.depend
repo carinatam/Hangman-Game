@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1598892386 source:c:\users\carin\documents\hangmangame\main.cpp
+	<iostream>
+	<graphics.h>
+	"header.h"
+	<string>
+	<fstream>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+
+1598891935 c:\users\carin\documents\hangmangame\header.h
+	<iostream>
+	<string>
+
+1598892432 source:c:\users\carin\documents\hangmangame\main_functions.cpp
+	<iostream>
+	<graphics.h>
+	"header.h"
+	<string>
+	<fstream>
+	<time.h>
+	<Windows.h>
+
+1598892472 source:c:\users\carin\documents\hangmangame\main_game_graphics.cpp
+	<iostream>
+	<graphics.h>
+	"header.h"
+	<string>
+	<fstream>
+	<conio.h>
+
